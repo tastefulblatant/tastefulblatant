@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, i am Matěj Mrkus
+I want to be an Ethical hacker and Programmer.
 
-<!--
-**x84bl4tqnt/x84bl4tqnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+And I am also known by the nickname tastefulblatant.
 
-Here are some ideas to get you started:
+i'm using Parrot OS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Programming language(s)
+
+Python(OOP, Tkinter, webscraping)
+
+Currently learning JavaScript
+
+# 2023
+KnightCTF 2023 - Place 314/848
+
+# Other profiles:
+[Here](https://tryhackme.com/p/tastefulblatant) is my THM profile.
