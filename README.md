@@ -1,7 +1,7 @@
 # Hi, i am Matěj Mrkus
 I want to be an Ethical hacker and Programmer.
 
-And I am also known by the nickname tastefulblatant.
+I am also known by the nickname tastefulblatant.
 
 i'm using Parrot OS.
 
