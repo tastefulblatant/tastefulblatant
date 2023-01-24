@@ -16,4 +16,4 @@ KnightCTF 2023 - Place 314/848
 
 # Other profiles:
 [Here](https://tryhackme.com/p/tastefulblatant) is my THM profile.
-[](https://tryhackme-badges.s3.amazonaws.com/tastefulblatant.png)
+[imge](https://tryhackme-badges.s3.amazonaws.com/tastefulblatant.png)
