@@ -12,7 +12,7 @@ Python(OOP, Tkinter, webscraping)
 Currently learning JavaScript
 
 # 2023
-KnightCTF 2023 - Place 314/848
+KnightCTF 2023 - Place 222/848
 
 # Other profiles:
 [Here](https://tryhackme.com/p/tastefulblatant) is my THM profile.:
