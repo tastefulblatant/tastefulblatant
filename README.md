@@ -3,7 +3,7 @@ I want to be an Ethical hacker and Programmer.
 
 I am also known by the nickname tastefulblatant.
 
-i'm using Parrot OS.
+i'm using Kali Linux.
 
 # Programming language(s)
 
