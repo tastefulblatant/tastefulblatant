@@ -9,7 +9,7 @@ i'm using Kali Linux.
 
 Python(OOP, Tkinter, webscraping)
 
-Currently learning JavaScript
+Currently learning C#
 
 # 2023
 KnightCTF 2023 - Place 222/848
