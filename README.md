@@ -7,7 +7,7 @@ i'm using Kali Linux.
 
 # Programming language(s)
 
-Python(OOP, Tkinter, WebScraping, TurtleGraphics)
+Python(OOP, Tkinter, WebScraping)
 
 Currently learning C#
 
