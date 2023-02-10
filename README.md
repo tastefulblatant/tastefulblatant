@@ -1,5 +1,5 @@
 # Hi, i am Matěj Mrkus
-I want to be an Ethical hacker and Programmer.
+I want to be Ethical hacker and Programmer.
 
 I am also known by the nickname tastefulblatant.
 
@@ -7,7 +7,7 @@ i'm using Kali Linux.
 
 # Programming language(s)
 
-Python(OOP, Tkinter, webscraping)
+Python(OOP, Tkinter, WebScraping, TurtleGraphics)
 
 Currently learning C#
 
