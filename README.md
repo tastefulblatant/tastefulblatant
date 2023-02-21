@@ -15,4 +15,4 @@ Currently learning C#
 KnightCTF 2023 - Place 222/848
 
 # Other profiles:
-[Here](https://tryhackme.com/p/tastefulblatant) is my THM profile.:
+[Here](https://tryhackme.com/p/tastefulblatant) is my THM profile.
