@@ -1,4 +1,4 @@
-# Hi, i am tastefulblatant
+# Hi, i am Matěj Mrkus
 I want to be Ethical hacker and Programmer.
 
 I am also known by the nickname tastefulblatant.
