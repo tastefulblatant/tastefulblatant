@@ -1,11 +1,11 @@
 # Hi there 👋 blatant here!
-I'm from Czech Republic
+14 year old Python Programmer, self-taught Penetration Tester, Czech Republic.
 
 
 # 💻 Skills
-Python
+🐍 Python
 
-Currently learning JavaScript
+📕 Currently learning JavaScript
 
 # 2023
 KnightCTF 2023 - Place 222/848
