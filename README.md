@@ -1,15 +1,16 @@
 # Hi there 👋 blatant here!
-I'm from czech republic and i code in python like alot
+I'm from Czech Republic
 
 
-# Programming language(s)
+# 💻 Skills
+Python
 
-Python(OOP, Tkinter, WebScraping)
-
-Currently learning C#
+Currently learning JavaScript
 
 # 2023
 KnightCTF 2023 - Place 222/848
+
+You can reach me on discord: TASTEFULBLATANT#3056 
 
 ![tastefulblatant's GitHub stats](https://github-readme-stats.vercel.app/api?username=tastefulblatant&show_icons=true&theme=merko)
 
