@@ -1,5 +1,6 @@
 # Hi there 👋 blatant here!
-14 year old Python Programmer, dream - get into SSPŠ in Prague and become a Penetration Tester, Czech Republic.
+👦14 year old Python Programmer
+🛏️Dream - get into SSPŠ in Prague and become a Penetration Tester, Czech Republic.
 
 
 # 💻 Skills
