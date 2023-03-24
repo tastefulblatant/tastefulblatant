@@ -9,6 +9,8 @@
 
 📕 Currently learning JavaScript
 
+🛠️ Learing Penetration Testing with [TryHackMe](https://tryhackme.com/p/tastefulblatant)
+
 # 2023
 KnightCTF 2023 - Place 222/848
 
