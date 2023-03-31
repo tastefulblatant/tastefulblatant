@@ -12,7 +12,9 @@
 🛠️ Learning Penetration Testing with [TryHackMe](https://tryhackme.com/p/tastefulblatant)
 
 # 2023
-KnightCTF 2023 - Place 222/848
+🤺 KnightCTF 2023 - Place 222/848
+
+📍 PicoCTF 2023 - Place 1412/6924
 
 You can reach me on discord: TASTEFULBLATANT#3056 
 
