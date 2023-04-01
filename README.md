@@ -16,6 +16,8 @@
 
 📍 PicoCTF 2023 - Place 1412/6924
 
+🍙 vishwaCTF 2023 - Place ?/?
+
 You can reach me on discord: TASTEFULBLATANT#3056 
 
 ![tastefulblatant's GitHub stats](https://github-readme-stats.vercel.app/api?username=tastefulblatant&show_icons=true&theme=merko)
