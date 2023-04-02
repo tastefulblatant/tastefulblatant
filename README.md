@@ -16,7 +16,7 @@
 
 📍 PicoCTF 2023 - Place 1412/6924
 
-🍙 vishwaCTF 2023 - Place ?/?
+🍙 vishwaCTF 2023 - Place 35/1090
 
 You can reach me on discord: TASTEFULBLATANT#3056 
 
