@@ -7,7 +7,7 @@
 # 💻 Skills
 🐍 Python
 
-📕 Currently learning JavaScript
+📕 Currently learning JavaScript # C#
 
 🛠️ Learning Penetration Testing with [TryHackMe](https://tryhackme.com/p/tastefulblatant)
 
