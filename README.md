@@ -1,5 +1,5 @@
 # Hi there 👋 blatant here!
-👦14 year old Python Programmer.
+👦14 year old Python Programmer & Penetration Tester.
 
 🛏️Dream - get into SSPŠ in Prague and become a Penetration Tester.
 
