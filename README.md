@@ -18,6 +18,8 @@
 
 🍙 vishwaCTF 2023 - Place 35/1090
 
+🦁 Winner of SSPŠCTF 2023
+
 You can reach me on discord: TASTEFULBLATANT#3056 
 
 ![tastefulblatant's GitHub stats](https://github-readme-stats.vercel.app/api?username=tastefulblatant&show_icons=true&theme=merko)
