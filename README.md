@@ -9,7 +9,7 @@
 
 📕 Currently learning C++, Practical Ethical Hacking with TCM-Sec
 
-🛠️ Learning Penetration Testing with [TryHackMe](https://tryhackme.com/p/tastefulblatant)
+🛠️ Learning Penetration Testing with [TryHackMe](https://tryhackme.com/p/tastefulblatant) [DONE]
 
 # 2023
 🤺 KnightCTF 2023 - Place 222/848
