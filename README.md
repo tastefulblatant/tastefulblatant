@@ -7,7 +7,7 @@
 # 💻 Skills
 🐍 Python
 
-📕 Currently learning C++, Practical Ethical Hacking with TCM-Sec
+📕 Currently learning C++, Web hacking with TCM-Sec
 
 🛠️ Learning Penetration Testing with:
 
