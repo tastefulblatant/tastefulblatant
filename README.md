@@ -25,6 +25,8 @@
 
 🦁 Winner of SSPŠCTF 2023
 
+🃏 CSAWCTF 2023 - Place 365/1098
+
 You can reach me on discord: tastefulblatant
 
 ![tastefulblatant's GitHub stats](https://github-readme-stats.vercel.app/api?username=tastefulblatant&show_icons=true&theme=merko)
