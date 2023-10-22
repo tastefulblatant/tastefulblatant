@@ -25,6 +25,8 @@
 
 🦁 Winner of SSPŠCTF 2023
 
+💀 DEADFACECTF 2023 - Place 25/1107
+
 🃏 CSAWCTF 2023 - Place 365/1098
 
 You can reach me on discord: tastefulblatant
